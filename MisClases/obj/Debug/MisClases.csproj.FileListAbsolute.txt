@@ -1,0 +1,9 @@
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\MisClases\bin\Debug\MisClases.dll
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\MisClases\bin\Debug\MisClases.pdb
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\MisClases\obj\Debug\MisClases.dll
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\MisClases\obj\Debug\MisClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\MisClases\bin\Debug\MisClases.dll
+C:\Users\Carles\Desktop\PROYECTO INFO\MisClases\bin\Debug\MisClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\MisClases\obj\Debug\MisClases.dll
+C:\Users\Carles\Desktop\PROYECTO INFO\MisClases\obj\Debug\MisClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\MisClases\obj\Debug\MisClases.csprojResolveAssemblyReference.cache

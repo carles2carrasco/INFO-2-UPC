@@ -1,0 +1,14 @@
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.csprojResolveAssemblyReference.cache
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\bin\Debug\ProbarClases.exe
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\bin\Debug\ProbarClases.pdb
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\bin\Debug\MisClases.dll
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\bin\Debug\MisClases.pdb
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.exe
+C:\Users\Eva\Desktop\INFO2\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\bin\Debug\ProbarClases.exe
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\bin\Debug\ProbarClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\bin\Debug\MisClases.dll
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\bin\Debug\MisClases.pdb
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.csprojResolveAssemblyReference.cache
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.exe
+C:\Users\Carles\Desktop\PROYECTO INFO\ProbarClases\obj\x86\Debug\ProbarClases.pdb
